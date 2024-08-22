@@ -1,7 +1,13 @@
 # FigthOrDie
 Este proyecto esta hecho en Unity, es un nuevo giro a la formula original de piedra/papel/tijeras con elementos de RPG simples
 
-![Demostración del Juego](GIFS/fod1.gif) ![Demostración del Juego](GIFS/fod2.gif)
+![Demostración del Juego](GIFS/fod1.gif) 
+
+# Funcionamiento
+Es como el piedra/papel/tijeras pero cambian los elementos que lo representan y tienen efectos en la partida el resultado:
+Espada gana a Corazon, Corazon gana a Escudo y Escudo gana a Espada. en caso de hacertar con Espada el enemigo recive daño y le baja la vida, en caso de ganar con escudo te protejes del ataque del enemigo y no recives daño, y en caso de que ganes con corazon te curas un poco tu vida, y si empatais no pasa nada. 
+
+![Demostración del Juego](GIFS/fod2.gif)
 
 # Proyecto Unity - Versión Construida
 
